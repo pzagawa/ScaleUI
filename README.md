@@ -19,7 +19,7 @@ Enable *ScaleUI* plugin in Plugins window.
 
 ![navigate plugins install](https://user-images.githubusercontent.com/3949132/233721882-9842ec51-b6f7-4fc8-a4eb-fb175bcd1c7d.png)
 
-Navigate editor *Editor Preferences*.
+Navigate to *Editor Preferences*.
 
 ![navigate editor prefs](https://user-images.githubusercontent.com/3949132/233721866-e091aaa6-7b58-4949-8800-a3ac1352ad18.png)
 
